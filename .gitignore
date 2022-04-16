@@ -128,6 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-./output/*.yml
-./output/quests/*.yml
+output/*.yml
+output/quests/*.yml
 test.py
